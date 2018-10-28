@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Matrix.cpp
+  Matr.cpp
+  Создание кода...
+Matrix.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Matr<int>::Matr<int>(int,int)" (??0?$Matr@H@@QEAA@HH@Z) в функции main
+D:\Project\Matrix\x64\Debug\Matrix.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
